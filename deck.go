@@ -9,7 +9,7 @@ import (
 	"time"
 )
 
-// type of 'deck'
+// type of 'deck' - custom type
 type deck []string
 
 // return value of type deck
